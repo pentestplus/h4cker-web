@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# CompTIA PenTest+ Example Website
 
-You can use the [editor on GitHub](https://github.com/pentestplus/h4cker-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an example website used in the "[CompTIA PenTest+ Cert Guide (Certification Guide) by Omar Santos and Ron Taylor](https://www.amazon.com/CompTIA-PenTest-Cert-Guide-Certification/dp/0789760355)"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This book is a complete guide to prepare for the CompTIA PenTest+ certification exam. It covers all the topics in the exam including plan and scope a security penetration testing (ethical hacking) assessment, understanding legal and compliance requirements, and performing vulnerability scanning and penetration testing using appropriate tools and techniques. In addition, it guides the student on how to analyze the results and write a comprehensive report including remediation techniques and best practices on how to effectively communicate results to the relevant stakeholders.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pentestplus/h4cker-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This book is in complete alignment with the CompTIA PenTest+ certification exam blueprint. The book includes practice questions, as well as real-life scenarios and tips. This manuscript is written by leading cybersecurity experts and can be considered as an authoritative guide addresses the skills required for becoming CompTIA PenTest+ certified professional.
