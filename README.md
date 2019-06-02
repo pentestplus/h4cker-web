@@ -33,3 +33,7 @@ Every feature of this book supports both efficient exam preparation and long-ter
 - Key Topics figures, tables, and lists call attention to the information that's most crucial for exam success
 - Exam Preparation Tasks enable you to review key topics, complete memory tables, define key terms, work through scenarios, and answer review questions...going beyond mere facts to master the concepts that are crucial to passing the exam and enhancing your career
 - Key Terms are listed in each chapter and defined in a complete glossary, explaining all the field's essential terminology
+
+## Other Publications by Omar Santos
+
+Omar is the author of over 20 books and video courses. You can find additional information about many other publications by Omar Santos [HERE](https://omarsantos.io/publications).
